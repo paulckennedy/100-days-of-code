@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 0: January 01, 2018
+
+**Today's Progress**: Found out 100 Days of Code and Prepare plan for execution.
+
+**Thoughts:** I found out about 100 Days of Code and prepared the plan what to code for 100 Days of Code. After so much distraction finally figured out what to focus. I'll complete the Front End Libraries Certification from FreeCodeCamp.
+
+**Link to work:**
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
