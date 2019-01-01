@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 01, 2018
+### Day 0: January 01, 2019
 
 **Today's Progress**: Found out 100 Days of Code and Prepare plan for execution.
 
