@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 02, 2019
+Today's Progress: Completed Bootstrap, jQuery Frontend Libraries
+
+Thoughts: It was really good revision. Excitement is at pick level for React which will be the next. @freeCodeCamp.
+
+Progress Log: https://github.com/meetdshah007/100-days-of-code/blob/master/log.md #100DaysOfCode
+
 ### Day 0: January 01, 2019
 
 **Today's Progress**: Found out 100 Days of Code and Prepare plan for execution.
